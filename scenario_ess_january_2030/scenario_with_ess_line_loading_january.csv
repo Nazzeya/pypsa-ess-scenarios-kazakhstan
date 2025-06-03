@@ -1,0 +1,19 @@
+Line,0
+Line from ZKO to ATY,1.0
+Line from ATY to MAN,1.0
+Line from AKT to KOST,1.0
+Line from KOST to AKM2,0.652403462306944
+Line from AKM2 to SKO,1.0
+Line from AKM2 to PAV,1.0
+Line from KOST to AKM1,1.0
+Line from AKM1 to PAV,1.0
+Line from AKM1 to KAR,1.0
+Line from PAV to KAR,1.0
+Line from PAV to SEM,1.0
+Line from KAR to ZhEZ,1.0
+Line from SEM to TALD,0.7040851735000001
+Line from KAR to TALD,1.0
+Line from KAR to ALM,1.0
+Line from TALD to ALM,1.0
+Line from ALM to ZHAM,1.0
+Line from ZHAM to TURK,1.0
